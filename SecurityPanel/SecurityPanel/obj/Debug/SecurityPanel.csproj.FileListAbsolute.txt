@@ -1,0 +1,11 @@
+E:\University\Works\dotnet\SecurityPanel\SecurityPanel\bin\Debug\SecurityPanel.exe.config
+E:\University\Works\dotnet\SecurityPanel\SecurityPanel\bin\Debug\SecurityPanel.exe
+E:\University\Works\dotnet\SecurityPanel\SecurityPanel\bin\Debug\SecurityPanel.pdb
+E:\University\Works\dotnet\SecurityPanel\SecurityPanel\obj\Debug\SecurityPanel.csproj.AssemblyReference.cache
+E:\University\Works\dotnet\SecurityPanel\SecurityPanel\obj\Debug\SecurityPanel.csproj.SuggestedBindingRedirects.cache
+E:\University\Works\dotnet\SecurityPanel\SecurityPanel\obj\Debug\SecurityPanel.Properties.Resources.resources
+E:\University\Works\dotnet\SecurityPanel\SecurityPanel\obj\Debug\SecurityPanel.csproj.GenerateResource.cache
+E:\University\Works\dotnet\SecurityPanel\SecurityPanel\obj\Debug\SecurityPanel.csproj.CoreCompileInputs.cache
+E:\University\Works\dotnet\SecurityPanel\SecurityPanel\obj\Debug\SecurityPanel.exe
+E:\University\Works\dotnet\SecurityPanel\SecurityPanel\obj\Debug\SecurityPanel.pdb
+E:\University\Works\dotnet\SecurityPanel\SecurityPanel\obj\Debug\SecurityPanel.AppForm.resources

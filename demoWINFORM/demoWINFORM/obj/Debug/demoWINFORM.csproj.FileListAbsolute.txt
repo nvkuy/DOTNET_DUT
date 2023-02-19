@@ -1,0 +1,12 @@
+E:\University\Works\dotnet\demoWINFORM\demoWINFORM\bin\Debug\demoWINFORM.exe.config
+E:\University\Works\dotnet\demoWINFORM\demoWINFORM\bin\Debug\demoWINFORM.exe
+E:\University\Works\dotnet\demoWINFORM\demoWINFORM\bin\Debug\demoWINFORM.pdb
+E:\University\Works\dotnet\demoWINFORM\demoWINFORM\obj\Debug\demoWINFORM.csproj.AssemblyReference.cache
+E:\University\Works\dotnet\demoWINFORM\demoWINFORM\obj\Debug\demoWINFORM.csproj.SuggestedBindingRedirects.cache
+E:\University\Works\dotnet\demoWINFORM\demoWINFORM\obj\Debug\demoWINFORM.Form1.resources
+E:\University\Works\dotnet\demoWINFORM\demoWINFORM\obj\Debug\demoWINFORM.Form2.resources
+E:\University\Works\dotnet\demoWINFORM\demoWINFORM\obj\Debug\demoWINFORM.Properties.Resources.resources
+E:\University\Works\dotnet\demoWINFORM\demoWINFORM\obj\Debug\demoWINFORM.csproj.GenerateResource.cache
+E:\University\Works\dotnet\demoWINFORM\demoWINFORM\obj\Debug\demoWINFORM.csproj.CoreCompileInputs.cache
+E:\University\Works\dotnet\demoWINFORM\demoWINFORM\obj\Debug\demoWINFORM.exe
+E:\University\Works\dotnet\demoWINFORM\demoWINFORM\obj\Debug\demoWINFORM.pdb

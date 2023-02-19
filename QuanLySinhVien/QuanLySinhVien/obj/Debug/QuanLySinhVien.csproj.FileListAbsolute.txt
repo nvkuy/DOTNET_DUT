@@ -1,0 +1,12 @@
+E:\University\Works\dotnet\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.exe.config
+E:\University\Works\dotnet\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.exe
+E:\University\Works\dotnet\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.pdb
+E:\University\Works\dotnet\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.AssemblyReference.cache
+E:\University\Works\dotnet\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.SuggestedBindingRedirects.cache
+E:\University\Works\dotnet\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.DetailForm.resources
+E:\University\Works\dotnet\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.MainForm.resources
+E:\University\Works\dotnet\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.Properties.Resources.resources
+E:\University\Works\dotnet\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.GenerateResource.cache
+E:\University\Works\dotnet\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.CoreCompileInputs.cache
+E:\University\Works\dotnet\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.exe
+E:\University\Works\dotnet\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.pdb

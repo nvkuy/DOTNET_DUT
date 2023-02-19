@@ -1,0 +1,8 @@
+E:\University\Works\dotnet\102210240_NguyenVuKhanhUy\102210240_NguyenVuKhanhUy\bin\Debug\102210240_NguyenVuKhanhUy.exe.config
+E:\University\Works\dotnet\102210240_NguyenVuKhanhUy\102210240_NguyenVuKhanhUy\bin\Debug\102210240_NguyenVuKhanhUy.exe
+E:\University\Works\dotnet\102210240_NguyenVuKhanhUy\102210240_NguyenVuKhanhUy\bin\Debug\102210240_NguyenVuKhanhUy.pdb
+E:\University\Works\dotnet\102210240_NguyenVuKhanhUy\102210240_NguyenVuKhanhUy\obj\Debug\102210240_NguyenVuKhanhUy.csproj.AssemblyReference.cache
+E:\University\Works\dotnet\102210240_NguyenVuKhanhUy\102210240_NguyenVuKhanhUy\obj\Debug\102210240_NguyenVuKhanhUy.csproj.SuggestedBindingRedirects.cache
+E:\University\Works\dotnet\102210240_NguyenVuKhanhUy\102210240_NguyenVuKhanhUy\obj\Debug\102210240_NguyenVuKhanhUy.csproj.CoreCompileInputs.cache
+E:\University\Works\dotnet\102210240_NguyenVuKhanhUy\102210240_NguyenVuKhanhUy\obj\Debug\102210240_NguyenVuKhanhUy.exe
+E:\University\Works\dotnet\102210240_NguyenVuKhanhUy\102210240_NguyenVuKhanhUy\obj\Debug\102210240_NguyenVuKhanhUy.pdb
