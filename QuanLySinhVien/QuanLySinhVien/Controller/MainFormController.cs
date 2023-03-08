@@ -26,21 +26,52 @@ namespace QuanLySinhVien.Controller
             }
         }
 
-        public void Init(DataGridView dg)
+        public void Init(DataGridView dg, ComboBox cb, TextBox tb, ComboBox tt)
         {
-            MainFormView.Instance.Init(dg);
+            MainFormView.Instance.Init(dg, cb, tb, tt);
             DataHelper.Instance.ReadAllData();
         }
 
-        public void SearchStudent(String c, String tn)
+        public void SearchStudent()
         {
-            List<SinhVien> tmp = DataHelper.Instance.SearchByName(c, tn);
+            if (MainFormView.Instance.GetClassCode().Length == 0) return;
+            List<SinhVien> tmp = DataHelper.Instance.SearchByName(MainFormView.Instance.GetClassCode(), MainFormView.Instance.GetCurSearch());
             MainFormView.Instance.ShowStudentList(tmp);
         }
 
-        public void SortStudent(int mode)
+        public SinhVien getSelectedStudent()
         {
+            SinhVien s = new SinhVien("");
+            List<SinhVien> tmp = MainFormView.Instance.GetSelectedList();
+            if (tmp.Count == 1)
+                s = tmp[0];
+            return s;
+        }
+
+        public void DelStudent()
+        {
+            List<SinhVien> ls = MainFormView.Instance.GetSelectedList();
+            DataHelper.Instance.DelStudent(ls);
+            DataHelper.Instance.SaveData();
+            SearchStudent();
+        }
+
+        public void SortStudent()
+        {
+            DataHelper.CMP mCMP = DataHelper.CmpByName;
+            switch (MainFormView.Instance.GetSortMode())
+            {
+                case 1:
+                    mCMP = DataHelper.CmpByDTB;
+                    break;
+                case 2:
+                    mCMP = DataHelper.CmpByDTB;
+                    break;
+            }
             List<SinhVien> tmp = MainFormView.Instance.GetCurrentStudentList();
+            if (tmp != null)
+                DataHelper.Instance.SortLR(0, tmp.Count - 1, tmp, mCMP);
+            MainFormView.Instance.ShowStudentList(tmp);
         }
 
     }

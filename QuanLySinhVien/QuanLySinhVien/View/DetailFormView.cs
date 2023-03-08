@@ -44,7 +44,7 @@ namespace QuanLySinhVien.View
             rbGioiTinh = gt;
         }
 
-        public void UpdateView(SinhVien s)
+        public void DisplayStudent(SinhVien s)
         {
             if (s.MSV == null) return;
             tbMSV.Text = s.MSV;
@@ -58,5 +58,29 @@ namespace QuanLySinhVien.View
             rbGioiTinh.Checked = s.GioiTinh;
 
         }
+
+        public SinhVien GetStudent() {
+            SinhVien s = new SinhVien("");
+            try
+            {
+                s.MSV = tbMSV.Text;
+                s.Ten = tbTen.Text;
+                s.DTB = Double.Parse(tbDTB.Text, 0);
+                s.NgaySinh = dtpNgaySinh.Value;
+                s.CoAnh = cbAnh.Checked;
+                s.CoCCCD = cbCCCD.Checked;
+                s.CoHocBa = cbHB.Checked;
+                s.Lop = cobLop.SelectedItem.ToString();
+                s.GioiTinh = rbGioiTinh.Checked;
+            }
+            catch { }
+            return s;
+        }
+
+        public void ShowMes(String mes)
+        {
+            MessageBox.Show(mes);
+        }
+
     }
 }

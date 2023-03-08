@@ -46,7 +46,7 @@ namespace QuanLySinhVien.Model
 
         public bool IsValidInfo()
         {
-            return MSV.Length > 0 && Ten.Length > 0 && DTB >= 0 && DTB <= 10;
+            return MSV.Length > 0 && Ten.Length > 0 && DTB >= 0 && DTB <= 10 && Lop != null;
         }
 
     }

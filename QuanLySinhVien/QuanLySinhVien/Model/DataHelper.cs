@@ -59,6 +59,7 @@ namespace QuanLySinhVien.Model
 
         public void SaveData()
         {
+            File.WriteAllText(DATABASE_PATH, "");
             foreach (SinhVien s in allData)
             {
                 File.AppendAllText(DATABASE_PATH, s.ToString() + Environment.NewLine);
@@ -76,14 +77,26 @@ namespace QuanLySinhVien.Model
             return res;
         }
 
+        public void DelStudent(List<SinhVien> ls)
+        {
+            List<SinhVien> tmp = new List<SinhVien>();
+            foreach (SinhVien s in allData)
+            {
+                if (ls.Contains(s))
+                    continue;
+                tmp.Add(s);
+            }
+            allData = tmp;
+        }
+
         public static bool CmpByName(SinhVien s1, SinhVien s2)
         {
-            return s1.Ten.GetHashCode() < s2.Ten.GetHashCode();
+            return s1.Ten.CompareTo(s2.Ten) > 0;
         }
 
         public static bool CmpByDTB(SinhVien s1, SinhVien s2)
         {
-            return s1.DTB < s2.DTB;
+            return s1.DTB > s2.DTB;
         }
 
         public static bool CmpByBD(SinhVien s1, SinhVien s2)
@@ -97,12 +110,13 @@ namespace QuanLySinhVien.Model
             int m = (l + r) / 2;
             SortLR(l, m, arr, cmp);
             SortLR(m + 1, r, arr, cmp);
-            List<SinhVien> tmp = new List<SinhVien>(r - l + 1);
+            List<SinhVien> tmp = new List<SinhVien>();
+            while (tmp.Count < r - l + 1) tmp.Add(new SinhVien(""));
             int p1 = l, p2 = m + 1, p3 = 0;
             while (p1 <= m && p2 <= r)
             {
                 int tt = p1;
-                if (cmp(arr[tt], arr[p2]))
+                if (cmp(arr[p2], arr[tt]))
                 {
                     tt = p2;
                     p2++;

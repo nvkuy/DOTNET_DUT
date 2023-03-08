@@ -1,4 +1,5 @@
-﻿using System;
+﻿using QuanLySinhVien.Controller;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -15,6 +16,17 @@ namespace QuanLySinhVien
         public DetailForm()
         {
             InitializeComponent();
+            DetailFormController.Instance.Init(tbMaSinhVien, tbTen, tbDiemTrungBinh, dtpNgaySinh, cobLopSinhHoat, rbNam, cbAnh, cbHocBa, cbCCCD);
+        }
+
+        private void btnXacNhan_Click(object sender, EventArgs e)
+        {
+            DetailFormController.Instance.AddOrUpdate();
+        }
+
+        private void btnThoat_Click(object sender, EventArgs e)
+        {
+            Dispose();
         }
     }
 }
