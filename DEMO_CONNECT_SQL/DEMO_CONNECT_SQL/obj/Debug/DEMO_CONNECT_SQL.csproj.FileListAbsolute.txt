@@ -1,0 +1,11 @@
+E:\University\Works\dotnet\DEMO_CONNECT_SQL\DEMO_CONNECT_SQL\bin\Debug\DEMO_CONNECT_SQL.exe.config
+E:\University\Works\dotnet\DEMO_CONNECT_SQL\DEMO_CONNECT_SQL\bin\Debug\DEMO_CONNECT_SQL.exe
+E:\University\Works\dotnet\DEMO_CONNECT_SQL\DEMO_CONNECT_SQL\bin\Debug\DEMO_CONNECT_SQL.pdb
+E:\University\Works\dotnet\DEMO_CONNECT_SQL\DEMO_CONNECT_SQL\obj\Debug\DEMO_CONNECT_SQL.csproj.AssemblyReference.cache
+E:\University\Works\dotnet\DEMO_CONNECT_SQL\DEMO_CONNECT_SQL\obj\Debug\DEMO_CONNECT_SQL.csproj.SuggestedBindingRedirects.cache
+E:\University\Works\dotnet\DEMO_CONNECT_SQL\DEMO_CONNECT_SQL\obj\Debug\DEMO_CONNECT_SQL.Form1.resources
+E:\University\Works\dotnet\DEMO_CONNECT_SQL\DEMO_CONNECT_SQL\obj\Debug\DEMO_CONNECT_SQL.Properties.Resources.resources
+E:\University\Works\dotnet\DEMO_CONNECT_SQL\DEMO_CONNECT_SQL\obj\Debug\DEMO_CONNECT_SQL.csproj.GenerateResource.cache
+E:\University\Works\dotnet\DEMO_CONNECT_SQL\DEMO_CONNECT_SQL\obj\Debug\DEMO_CONNECT_SQL.csproj.CoreCompileInputs.cache
+E:\University\Works\dotnet\DEMO_CONNECT_SQL\DEMO_CONNECT_SQL\obj\Debug\DEMO_CONNECT_SQL.exe
+E:\University\Works\dotnet\DEMO_CONNECT_SQL\DEMO_CONNECT_SQL\obj\Debug\DEMO_CONNECT_SQL.pdb
