@@ -35,7 +35,7 @@ namespace QuanLiSinhVien_SQL_NonModel
         }
 
         public DataTable getStudent(string classCode, string searchName, string orderBy = "MSV")
-        {
+        {   
             string query = "SELECT * FROM SINHVIEN " +
                 "WHERE Lop = @ClassCode AND Ten LIKE @Name " +
                 "ORDER BY " + orderBy;

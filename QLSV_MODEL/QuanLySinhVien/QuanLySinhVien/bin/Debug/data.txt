@@ -1,0 +1,3 @@
+1234|123||2/19/2023 11:19:10 PM|2|True|False|False|True
+213|43|21TCLC_DT2|2/19/2023 11:31:13 PM|3|True|False|False|False
+a|a|21TCLC_DT2|2/19/2023 11:43:19 PM|3|True|False|False|False

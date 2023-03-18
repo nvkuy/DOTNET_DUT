@@ -1,0 +1,11 @@
+E:\University\Works\dotnet\DEMO_3_LAYER\DEMO_3_LAYER\bin\Debug\DEMO_3_LAYER.exe.config
+E:\University\Works\dotnet\DEMO_3_LAYER\DEMO_3_LAYER\bin\Debug\DEMO_3_LAYER.exe
+E:\University\Works\dotnet\DEMO_3_LAYER\DEMO_3_LAYER\bin\Debug\DEMO_3_LAYER.pdb
+E:\University\Works\dotnet\DEMO_3_LAYER\DEMO_3_LAYER\obj\Debug\DEMO_3_LAYER.csproj.AssemblyReference.cache
+E:\University\Works\dotnet\DEMO_3_LAYER\DEMO_3_LAYER\obj\Debug\DEMO_3_LAYER.csproj.SuggestedBindingRedirects.cache
+E:\University\Works\dotnet\DEMO_3_LAYER\DEMO_3_LAYER\obj\Debug\DEMO_3_LAYER.QLSV.resources
+E:\University\Works\dotnet\DEMO_3_LAYER\DEMO_3_LAYER\obj\Debug\DEMO_3_LAYER.Properties.Resources.resources
+E:\University\Works\dotnet\DEMO_3_LAYER\DEMO_3_LAYER\obj\Debug\DEMO_3_LAYER.csproj.GenerateResource.cache
+E:\University\Works\dotnet\DEMO_3_LAYER\DEMO_3_LAYER\obj\Debug\DEMO_3_LAYER.csproj.CoreCompileInputs.cache
+E:\University\Works\dotnet\DEMO_3_LAYER\DEMO_3_LAYER\obj\Debug\DEMO_3_LAYER.exe
+E:\University\Works\dotnet\DEMO_3_LAYER\DEMO_3_LAYER\obj\Debug\DEMO_3_LAYER.pdb

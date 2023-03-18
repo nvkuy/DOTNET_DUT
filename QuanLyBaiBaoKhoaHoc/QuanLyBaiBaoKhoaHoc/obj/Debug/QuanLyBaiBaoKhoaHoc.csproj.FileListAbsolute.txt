@@ -1,0 +1,12 @@
+E:\University\Works\dotnet\QuanLyBaiBaoKhoaHoc\QuanLyBaiBaoKhoaHoc\bin\Debug\QuanLyBaiBaoKhoaHoc.exe.config
+E:\University\Works\dotnet\QuanLyBaiBaoKhoaHoc\QuanLyBaiBaoKhoaHoc\bin\Debug\QuanLyBaiBaoKhoaHoc.exe
+E:\University\Works\dotnet\QuanLyBaiBaoKhoaHoc\QuanLyBaiBaoKhoaHoc\bin\Debug\QuanLyBaiBaoKhoaHoc.pdb
+E:\University\Works\dotnet\QuanLyBaiBaoKhoaHoc\QuanLyBaiBaoKhoaHoc\obj\Debug\QuanLyBaiBaoKhoaHoc.csproj.AssemblyReference.cache
+E:\University\Works\dotnet\QuanLyBaiBaoKhoaHoc\QuanLyBaiBaoKhoaHoc\obj\Debug\QuanLyBaiBaoKhoaHoc.csproj.SuggestedBindingRedirects.cache
+E:\University\Works\dotnet\QuanLyBaiBaoKhoaHoc\QuanLyBaiBaoKhoaHoc\obj\Debug\QuanLyBaiBaoKhoaHoc.AddAndEditForm.resources
+E:\University\Works\dotnet\QuanLyBaiBaoKhoaHoc\QuanLyBaiBaoKhoaHoc\obj\Debug\QuanLyBaiBaoKhoaHoc.MainForm.resources
+E:\University\Works\dotnet\QuanLyBaiBaoKhoaHoc\QuanLyBaiBaoKhoaHoc\obj\Debug\QuanLyBaiBaoKhoaHoc.Properties.Resources.resources
+E:\University\Works\dotnet\QuanLyBaiBaoKhoaHoc\QuanLyBaiBaoKhoaHoc\obj\Debug\QuanLyBaiBaoKhoaHoc.csproj.GenerateResource.cache
+E:\University\Works\dotnet\QuanLyBaiBaoKhoaHoc\QuanLyBaiBaoKhoaHoc\obj\Debug\QuanLyBaiBaoKhoaHoc.csproj.CoreCompileInputs.cache
+E:\University\Works\dotnet\QuanLyBaiBaoKhoaHoc\QuanLyBaiBaoKhoaHoc\obj\Debug\QuanLyBaiBaoKhoaHoc.exe
+E:\University\Works\dotnet\QuanLyBaiBaoKhoaHoc\QuanLyBaiBaoKhoaHoc\obj\Debug\QuanLyBaiBaoKhoaHoc.pdb
