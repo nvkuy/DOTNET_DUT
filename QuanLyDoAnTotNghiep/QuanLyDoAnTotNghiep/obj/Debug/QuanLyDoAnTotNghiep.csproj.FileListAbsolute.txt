@@ -1,0 +1,12 @@
+E:\University\Works\dotnet\QuanLyDoAnTotNghiep\QuanLyDoAnTotNghiep\obj\Debug\QuanLyDoAnTotNghiep.csproj.AssemblyReference.cache
+E:\University\Works\dotnet\QuanLyDoAnTotNghiep\QuanLyDoAnTotNghiep\obj\Debug\QuanLyDoAnTotNghiep.csproj.SuggestedBindingRedirects.cache
+E:\University\Works\dotnet\QuanLyDoAnTotNghiep\QuanLyDoAnTotNghiep\obj\Debug\QuanLyDoAnTotNghiep.Properties.Resources.resources
+E:\University\Works\dotnet\QuanLyDoAnTotNghiep\QuanLyDoAnTotNghiep\obj\Debug\QuanLyDoAnTotNghiep.csproj.GenerateResource.cache
+E:\University\Works\dotnet\QuanLyDoAnTotNghiep\QuanLyDoAnTotNghiep\obj\Debug\QuanLyDoAnTotNghiep.csproj.CoreCompileInputs.cache
+E:\University\Works\dotnet\QuanLyDoAnTotNghiep\QuanLyDoAnTotNghiep\bin\Debug\QuanLyDoAnTotNghiep.exe.config
+E:\University\Works\dotnet\QuanLyDoAnTotNghiep\QuanLyDoAnTotNghiep\bin\Debug\QuanLyDoAnTotNghiep.exe
+E:\University\Works\dotnet\QuanLyDoAnTotNghiep\QuanLyDoAnTotNghiep\bin\Debug\QuanLyDoAnTotNghiep.pdb
+E:\University\Works\dotnet\QuanLyDoAnTotNghiep\QuanLyDoAnTotNghiep\obj\Debug\QuanLyDoAnTotNghiep.exe
+E:\University\Works\dotnet\QuanLyDoAnTotNghiep\QuanLyDoAnTotNghiep\obj\Debug\QuanLyDoAnTotNghiep.pdb
+E:\University\Works\dotnet\QuanLyDoAnTotNghiep\QuanLyDoAnTotNghiep\obj\Debug\QuanLyDoAnTotNghiep.AddAndEditForm.resources
+E:\University\Works\dotnet\QuanLyDoAnTotNghiep\QuanLyDoAnTotNghiep\obj\Debug\QuanLyDoAnTotNghiep.MainForm.resources
